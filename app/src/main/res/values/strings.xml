@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">testRukiTwo</string>
+    <string name="create">СОТВОРИТЬ</string>
+    <string name="live">Живая</string>
+    <string name="and_moves">и шивелится!</string>
+    <string name="dead">Мёртвая</string>
+    <string name="or_pretending_to_be">или прикидывается</string>
+    <string name="life">Жизнь</string>
+    <string name="ku_ku">Ку-ку</string>
+</resources>
